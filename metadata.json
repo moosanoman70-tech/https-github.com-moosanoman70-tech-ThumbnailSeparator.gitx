@@ -1,0 +1,5 @@
+{
+  "name": "Thumbnail Separator",
+  "description": "A professional AI tool to deconstruct thumbnails into layers, analyze composition, and export assets using Gemini 2.5.",
+  "requestFramePermissions": []
+}
